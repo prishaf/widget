@@ -1,6 +1,4 @@
-# widget
-
-Floating Accessibility Widget
+# Floating Accessibility Widget
 A comprehensive, customizable floating accessibility widget that helps users personalize their browsing experience for better accessibility. Built with React, Next.js, and Tailwind CSS.
 
 Features
