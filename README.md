@@ -42,8 +42,8 @@ accessibility-widget/
 ├── tailwind.config.ts
 └── tsconfig.json
 
-Styling
-The widget uses Tailwind CSS classes. To customize the appearance:
+Styling:
+The widget uses Tailwind CSS classes.
 
 <img width="1871" height="852" alt="Screenshot 2025-07-26 212416" src="https://github.com/user-attachments/assets/3e17fe8a-abfb-48ab-9400-719a34fffdca" />
 <img width="1859" height="850" alt="Screenshot 2025-07-26 212409" src="https://github.com/user-attachments/assets/42b61f26-c85e-4d4b-ae68-b54d58214ab8" />
